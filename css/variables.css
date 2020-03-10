@@ -1,0 +1,21 @@
+html {
+/* Font Family */
+
+--tipo: "Roboto", Arial, sans-serif;
+--tipo-light: 300;
+--tipo-normal: 500;
+
+/* colores */
+
+--white: #FFFFFF;
+--black: #111111;
+
+/* tamaño tipografico */
+--text-base: 26px;
+--text-l: 34px;
+
+/* espaciados */
+--margin-v-s: 20px;
+--margin-v-l: 190px;
+
+}

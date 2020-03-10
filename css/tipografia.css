@@ -1,0 +1,13 @@
+body {
+    font-family: var(--tipo);
+    font-weight: var(--tipo-normal);
+}
+
+.text-intro {
+    font-size: var(--text-l);
+    
+}
+
+a {
+    color: var(--white);
+}
